@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://iamjomoreira.netlify.app/resume/](https://iamjomoreira.netlify.app/resume/)
+- 👨‍💻 All of my projects are available at [https://iamjomoreira.netlify.app/projects/](https://iamjomoreira.netlify.app/jotrackercovid19/)
 
 - 📫 How to reach me **jordan.moreira@epitech.eu**
 
