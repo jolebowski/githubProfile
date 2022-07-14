@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Jordan Moreira</h1>
 <h3 align="center">I’m a front end developer born and raised in Meaux, France. I’m fascinated by web design and development, performance optimization and building helpful things on the web. I love to explore new technologies and try to solve real-life problems ✨.</h3>
 
-- 👨‍💻 All of my projects are available at [https://iamjomoreira.netlify.app/projects/](https://iamjomoreira.com/jotrackercovid19/)
+- 👨‍💻 All of my projects are available at [https://iamjomoreira.com/projects/](https://iamjomoreira.com/jotrackercovid19/)
 
 - 📫 How to reach me **jordan.moreira@epitech.eu**
 
-- 📄 Know about my experiences [https://iamjomoreira.netlify.app/resume/](https://iamjomoreira.com/resume/)
+- 📄 Know about my experiences [https://iamjomoreira.com/resume/](https://iamjomoreira.com/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
