@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jordan Moreira</h1>
-<h3 align="center">I’m a front end developer born and raised in Meaux, France. I’m fascinated by web design and development, performance optimization and building helpful things on the web. I love to explore new technologies and try to solve real-life problems ✨.</h3>
+<h3 align="center">I’m a front end developer. I’m fascinated by web design and development. I love to explore new technologies and try to solve real-life problems ✨.</h3>
 
 - 👨‍💻 All of my projects are available at [https://iamjomoreira.com/projects/](https://iamjomoreira.com/jotrackercovid19/)
 
