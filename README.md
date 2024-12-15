@@ -4,11 +4,9 @@
 <h1 align="center">Hi 👋, I'm Jordan Moreira</h1>
 <h3 align="center">I’m a front end developer. I’m fascinated by web design and development. I love to explore new technologies and try to solve real-life problems ✨.</h3>
 
-- 👨‍💻 All of my projects are available at [https://iamjomoreira.com/projects/](https://iamjomoreira.com/jotrackercovid19/)
+- 👨‍💻 All of my projects are available at [https://www.jordanmoreira.fr/projects](https://www.jordanmoreira.fr/projects)
 
 - 📫 How to reach me **jordan.moreira@epitech.eu**
-
-- 📄 Know about my experiences [https://iamjomoreira.com/resume/](https://iamjomoreira.com/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
